@@ -1,0 +1,49 @@
+Added 1 to set a
+Added 2 to set a
+Added 3 to set a
+Added 4 to set a
+Added 5 to set a
+Added 2 to set b
+Added 1 to set b
+Added 7 to set b
+Added 8 to set b
+The size of b is: 4
+The union result is: 1 2 3 4 5 7 8 
+Added 1 to set a
+Added 2 to set a
+Added 3 to set a
+Added 4 to set a
+Added 5 to set a
+Added 2 to set b
+Added 1 to set b
+Added 7 to set b
+Added 8 to set b
+The difference result is: 3 4 5 
+Added 1 to set a
+Added 2 to set a
+Added 3 to set a
+Added 4 to set a
+Added 5 to set a
+Added 2 to set b
+Added 1 to set b
+Added 7 to set b
+Added 8 to set b
+The intersection result is: 1 2 
+Added 1 to set a
+Added 2 to set a
+Added 3 to set a
+Added 4 to set a
+Added 5 to set a
+Added 2 to set b
+Added 1 to set b
+Added 7 to set b
+Added 8 to set b
+Removed 1 to set a
+Removed 100 to set b
+The isEven filter result is: 2 4 
+The isEven filter result is: 2 8 
+The isOdd filter result is: 3 5 
+The isOdd filter result is: 1 7 
+The contents of Set a is: 2 3 4 5 
+The contents of Set b is: 1 2 7 8 
+Quiting Program

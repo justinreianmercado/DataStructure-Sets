@@ -1,0 +1,49 @@
+add a 1
+add a 2
+add a 3
+add a 4
+add a 5
+add b 2
+add b 1
+add b 7
+add b 8
+size b
+union
+add a 1
+add a 2
+add a 3
+add a 4
+add a 5
+add b 2
+add b 1
+add b 7
+add b 8
+difference
+add a 1
+add a 2
+add a 3
+add a 4
+add a 5
+add b 2
+add b 1
+add b 7
+add b 8
+intersection
+add a 1
+add a 2
+add a 3
+add a 4
+add a 5
+add b 2
+add b 1
+add b 7
+add b 8
+remove a 1
+remove b 100
+filterEven a
+filterEven b
+filterOdd a
+filterOdd b
+print a
+print b
+quit
