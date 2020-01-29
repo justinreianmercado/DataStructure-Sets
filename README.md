@@ -8,7 +8,7 @@
 - Object Oriented Programming
 - Set datatype functions (add, contains, remove, union, difference, intersection, traverse, filter, size)
 - Vectors
-- Template data type
+- Templates
 
 **This program will prompt for an input file and will generate an output file ("output.txt") with results from user executed commands in the IDE.
 
